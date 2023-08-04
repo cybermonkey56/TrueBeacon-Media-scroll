@@ -21,11 +21,11 @@ Introducing a seamless and dynamic select scrolling feature, empowering users to
 Easy implementation and can work with multiple designs.
 ## Demo
 
-Check images in ScreenShot Folder
+Check images in the ScreenShot Folder.
 
 ## Installation
 
-Clone the project and run the scroll.html file
+Clone the project and run the scroll.html file.
 
 
 
